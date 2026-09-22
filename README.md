@@ -1,6 +1,6 @@
-# Zapumo Datenschutzseite
+# Zubbi Datenschutzseite
 
-Statische deutsche und englische Datenschutzerklärung für die iOS-App Zapumo. Das Repository enthält ausschließlich die öffentliche Website; es gibt kein Backend, Build-System, Tracking, Cookies oder externe Ressourcen.
+Statische deutsche und englische Datenschutzerklärung für die iOS-App Zubbi. Das Repository enthält ausschließlich die öffentliche Website; es gibt kein Backend, Build-System, Tracking, Cookies oder externe Ressourcen.
 
 ## Seiten
 
@@ -10,7 +10,7 @@ Statische deutsche und englische Datenschutzerklärung für die iOS-App Zapumo. 
 
 Öffentliche URL nach Aktivierung von GitHub Pages:
 
-<https://wu3ty.github.io/zapumo-pages/>
+<https://wu3ty.github.io/zubbi-pages/>
 
 ## Veröffentlichung
 
